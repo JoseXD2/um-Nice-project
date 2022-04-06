@@ -1,0 +1,6 @@
+function onEvent(name,value1,value2)
+
+    if name == "Set Cam Zoom" then
+            setProperty('defaultCamZoom','value1' ,'value2')
+	    end
+end

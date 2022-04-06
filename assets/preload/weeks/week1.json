@@ -1,0 +1,57 @@
+{
+	"storyName": "the last hope...",
+	"hideFreeplay": false,
+	"weekBackground": "whitty1",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Deprave",
+			"whitty1",
+			[
+				80,
+				40,
+				80
+			]
+		],
+		[
+			"Pressure",
+			"whitty2",
+			[
+				120,
+				40,
+				80
+			]
+		],
+		[
+			"Infernum",
+			"whittycorrupted",
+			[
+				180,
+				40,
+				80
+			]
+		],
+		[
+			"vexation",
+			"whittyPrecorrupted2",
+			[
+				255,
+				40,
+				140
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}

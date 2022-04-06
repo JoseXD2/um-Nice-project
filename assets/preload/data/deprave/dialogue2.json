@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.06,
+			"portrait": "end",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I couldn't save my friends..."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "end",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I could not save anybody..."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "end",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm just a stupid guy who can't handle it... I'm not who I thought I was..."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "end",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I couldn't do anything to stop this..."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "end",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "it only remains to accept that the world will never be like before...\r"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "end",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I didn't deserve this...I never deserved it."
+		},
+		{
+			"speed": 0.5,
+			"portrait": "end",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "....."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "end",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "\rgoodbye carol..."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "end",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "\rgoodbye hex..."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "end",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "goodbye friends..."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "end",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "\rgoodbye boyfriend..."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "end",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "goodbye world..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "end",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"speed": 0.13,
+			"portrait": "end",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "h e l l o   w o r l d . . ."
+		}
+	]
+}

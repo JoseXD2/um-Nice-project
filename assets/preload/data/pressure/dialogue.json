@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.065,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GF CONFUSED",
+			"text": "fuck..."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "........."
+		},
+		{
+			"speed": 0.07,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GF CONFUSED",
+			"text": "this hurt..."
+		},
+		{
+			"speed": 0.065,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GF CONFUSED",
+			"text": "hurt hurt hurt hurt hurt hurt hurt hurt hurt.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GF CONFUSED",
+			"text": "....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GF CONFUSED",
+			"text": "But if this is the price to end my suffering, I will."
+		},
+		{
+			"speed": 0.07,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GF CONFUSED",
+			"text": "i just give up..i just want to end my torture... and join you guys..with gf..with hex..with carol..."
+		},
+		{
+			"speed": 0.09,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GF CONFUSED",
+			"text": "already corrupt... knowing that they won't be the ones I talk to..."
+		},
+		{
+			"speed": 0.09,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GF CONFUSED",
+			"text": "...."
+		},
+		{
+			"speed": 0.07,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GF CONFUSED",
+			"text": "you know.. NO!"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GF CONFUSED",
+			"text": "I can't give up like this out of the blue.. if this really was torture for me I would have ended my life a long time ago"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GF CONFUSED",
+			"text": "\rjust try to survive from you damn monsters..\r"
+		},
+		{
+			"speed": 0.08,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GF CONFUSED",
+			"text": "\rit hurts too much\r"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GF CONFUSED",
+			"text": "not even they are my friends... they are just parasites that use their bodies to live..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GF CONFUSED",
+			"text": "this really doesn't make sense..."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "......"
+		},
+		{
+			"speed": 0.055,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "resisting is useless"
+		},
+		{
+			"speed": 0.095,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GF CONFUSED",
+			"text": "......."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GF CONFUSED",
+			"text": "...Don't make me do this."
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"storyName": "the last hope...",
+	"hideFreeplay": true,
+	"weekBackground": "whitty1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"",
+			"whitty1",
+			[
+				80,
+				40,
+				80
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}

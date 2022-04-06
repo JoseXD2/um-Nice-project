@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whittycorrupted2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Crazy0000" x="0" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0001" x="0" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0002" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0003" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0004" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0005" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0006" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0007" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0008" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0009" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0010" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0011" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0012" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0013" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0014" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0015" x="2684" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0016" x="2684" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0017" x="4026" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0018" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0019" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0020" x="5368" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0021" x="5368" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0022" x="5368" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0023" x="5368" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0024" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0025" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0026" x="5368" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0027" x="5368" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0028" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0029" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0030" x="5368" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0031" x="5368" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0032" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0033" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0034" x="5368" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0035" x="5368" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0036" x="5368" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0037" x="5368" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0038" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0039" x="1342" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0040" x="5368" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0041" x="5368" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0042" x="6710" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0043" x="0" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0044" x="0" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0045" x="1342" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0046" x="1342" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0047" x="1342" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0048" x="1342" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0049" x="1342" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0050" x="1342" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0051" x="1342" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0052" x="0" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0053" x="0" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0054" x="6710" y="0" width="1342" height="798"/>
+	<SubTexture name="Crazy0055" x="2684" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0056" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0057" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0058" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0059" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0060" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0061" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0062" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0063" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0064" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0065" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0066" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0067" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0068" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0069" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0070" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0071" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0072" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0073" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0074" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0075" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0076" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0077" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0078" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0079" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0080" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0081" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0082" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0083" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0084" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0085" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0086" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0087" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0088" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0089" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0090" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0091" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0092" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0093" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0094" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0095" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0096" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0097" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0098" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0099" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0100" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0101" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0102" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0103" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0104" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0105" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0106" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0107" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0108" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0109" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0110" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0111" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0112" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0113" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0114" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0115" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0116" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0117" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0118" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0119" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0120" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0121" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0122" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0123" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0124" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0125" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0126" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0127" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0128" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0129" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0130" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0131" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0132" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0133" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0134" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0135" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0136" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0137" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0138" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0139" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0140" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0141" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0142" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0143" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0144" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0145" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0146" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0147" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0148" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0149" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0150" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0151" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0152" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0153" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0154" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0155" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0156" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0157" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0158" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0159" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0160" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0161" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0162" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0163" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0164" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0165" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0166" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0167" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0168" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0169" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0170" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0171" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0172" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0173" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0174" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0175" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0176" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0177" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0178" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0179" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0180" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0181" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0182" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0183" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0184" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0185" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0186" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0187" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0188" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0189" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0190" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0191" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0192" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0193" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0194" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0195" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0196" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0197" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0198" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0199" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0200" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0201" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0202" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0203" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0204" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0205" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0206" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0207" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0208" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0209" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0210" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0211" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0212" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0213" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0214" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0215" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0216" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0217" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0218" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0219" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0220" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0221" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0222" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0223" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0224" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0225" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0226" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0227" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Crazy0228" x="4026" y="798" width="1342" height="798"/>
+	<SubTexture name="Idle0000" x="5368" y="798" width="1280" height="720"/>
+	<SubTexture name="Idle0001" x="5368" y="798" width="1280" height="720"/>
+	<SubTexture name="Idle0002" x="6648" y="798" width="1280" height="720"/>
+	<SubTexture name="Idle0003" x="6648" y="798" width="1280" height="720"/>
+	<SubTexture name="Idle0004" x="0" y="1596" width="1280" height="720"/>
+	<SubTexture name="Idle0005" x="0" y="1596" width="1280" height="720"/>
+	<SubTexture name="Idle0006" x="1280" y="1596" width="1280" height="720"/>
+	<SubTexture name="Idle0007" x="1280" y="1596" width="1280" height="720"/>
+	<SubTexture name="Idle0008" x="5368" y="798" width="1280" height="720"/>
+	<SubTexture name="Idle0009" x="5368" y="798" width="1280" height="720"/>
+	<SubTexture name="Sing Down0000" x="2560" y="1596" width="1280" height="740"/>
+	<SubTexture name="Sing Down0001" x="2560" y="1596" width="1280" height="740"/>
+	<SubTexture name="Sing Down0002" x="3840" y="1596" width="1280" height="740"/>
+	<SubTexture name="Sing Down0003" x="3840" y="1596" width="1280" height="740"/>
+	<SubTexture name="Sing Down0004" x="3840" y="1596" width="1280" height="740"/>
+	<SubTexture name="Sing Down0005" x="3840" y="1596" width="1280" height="740"/>
+	<SubTexture name="Sing Down0006" x="3840" y="1596" width="1280" height="740"/>
+	<SubTexture name="Sing Down0007" x="3840" y="1596" width="1280" height="740"/>
+	<SubTexture name="Sing Down0008" x="3840" y="1596" width="1280" height="740"/>
+	<SubTexture name="Sing Down0009" x="3840" y="1596" width="1280" height="740"/>
+	<SubTexture name="Sing Down0010" x="3840" y="1596" width="1280" height="740"/>
+	<SubTexture name="Sing Down0011" x="3840" y="1596" width="1280" height="740"/>
+	<SubTexture name="Sing Down0012" x="3840" y="1596" width="1280" height="740"/>
+	<SubTexture name="Sing Down0013" x="3840" y="1596" width="1280" height="740"/>
+	<SubTexture name="Sing Down0014" x="3840" y="1596" width="1280" height="740"/>
+	<SubTexture name="Sing Down0015" x="3840" y="1596" width="1280" height="740"/>
+	<SubTexture name="Sing Down0016" x="3840" y="1596" width="1280" height="740"/>
+	<SubTexture name="Sing Down0017" x="3840" y="1596" width="1280" height="740"/>
+	<SubTexture name="Sing Left0000" x="5120" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0001" x="5120" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0002" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0003" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0004" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0005" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0006" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0007" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0008" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0009" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0010" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0011" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0012" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0013" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0014" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0015" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0016" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0017" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0018" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0019" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0020" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0021" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0022" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Left0023" x="6400" y="1596" width="1280" height="720"/>
+	<SubTexture name="Sing Right0000" x="0" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0001" x="0" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0002" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0003" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0004" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0005" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0006" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0007" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0008" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0009" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0010" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0011" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0012" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0013" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0014" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0015" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0016" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0017" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0018" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0019" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0020" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0021" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0022" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Right0023" x="1352" y="2336" width="1352" height="796"/>
+	<SubTexture name="Sing Up0000" x="2704" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0001" x="2704" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0002" x="3984" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0003" x="3984" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0004" x="3984" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0005" x="3984" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0006" x="3984" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0007" x="3984" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0008" x="3984" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0009" x="3984" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0010" x="3984" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0011" x="3984" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0012" x="3984" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0013" x="3984" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0014" x="3984" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0015" x="3984" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0016" x="3984" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0017" x="3984" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0018" x="3984" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0019" x="3984" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0020" x="3984" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0021" x="3984" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0022" x="3984" y="2336" width="1280" height="720"/>
+	<SubTexture name="Sing Up0023" x="3984" y="2336" width="1280" height="720"/>
+</TextureAtlas>

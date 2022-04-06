@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		280,
+		70
+	],
+	"scale": 1.4,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				67,
+				-39
+			],
+			"idle_name": "Whitty Portrait Crazy instance",
+			"loop_name": null
+		}
+	],
+	"image": "whittyPort - copia"
+}

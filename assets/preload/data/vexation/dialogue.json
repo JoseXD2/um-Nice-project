@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.055,
+			"portrait": "whittyport - copia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "....."
+		},
+		{
+			"speed": 0.13,
+			"portrait": "whittyport - copia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How can it get to this point..."
+		},
+		{
+			"speed": 0.085,
+			"portrait": "whittyport - copia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How can it be that everything ends like this... in this way"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whittyport - copia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YOU TURNED EVERYONE I LOVED INTO MONSTERS!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whittyport - copia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YOU CORRUPT THEM ALL... YOU CORRUPT THE ONLY PEOPLE WHO KEEP ME SANE!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whittyport - copia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YOU WERE ONE OF THOSE I WANTED..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whittyport - copia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but look at you... you became my biggest nightmare"
+		},
+		{
+			"speed": 0.135,
+			"portrait": "br",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "......."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whittyport - copia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*starts crying*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whittyport - copia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you corrupted carol... the only girlfriend i've ever had in my life..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whittyport - copia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you murdered my only best friend... hex"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whittyport - copia",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHY YOU MAKE ME THIS!!!?.. JUST TELL ME!! TELL ME DAMN PARASITE!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whittyport - copia",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I SWEAR THAT I WILL KILL YOU AS SOON AS I GET THE DAMN OPPORTUNITY.. YOU WILL COME TO HELL WITH ME"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whittyport - copia",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AND I WILL TORTURE YOU FOREVER!!!!"
+		},
+		{
+			"speed": 0.135,
+			"portrait": "boyfriendport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whittyport - copia",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOU RUINED MY LIFE!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whittyport - copia",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AND NOW I WILL REVENGE FOR ALL THE DAMAGE YOU'VE DONE TO OTHERS!!"
+		},
+		{
+			"speed": 0.18,
+			"portrait": "boyfriendport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "........"
+		}
+	]
+}

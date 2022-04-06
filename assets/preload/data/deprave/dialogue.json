@@ -1,0 +1,200 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who..."
+		},
+		{
+			"speed": 0.32,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "......."
+		},
+		{
+			"speed": 0.075,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh.. you.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why are you doing this?.."
+		},
+		{
+			"speed": 0.37,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Listen, I don't understand why this has \\nhappened to you, but just..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm tired of running wherever there is life..."
+		},
+		{
+			"speed": 0.075,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I never know what I'll find on the next corner\\n... some corrupt? someone trying to kill me\\nto survive?"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "always my life at risk ..."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "These 4 months since the corruption began were hell ..."
+		},
+		{
+			"speed": 0.065,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "all because of your damn fault!"
+		},
+		{
+			"speed": 0.2,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.085,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Before I ran from those who wanted to kill me, and from one day to the next it is the entire world population"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don't even know if I'm the only survivor here"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but yes I am .."
+		},
+		{
+			"speed": 0.215,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "........."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.09,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i will finish this"
+		},
+		{
+			"speed": 0.075,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I will end this nightmare that I am causing myself.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "me..."
+		},
+		{
+			"speed": 0.065,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.085,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "......"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Since I'm already getting corrupted there's.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no..."
+		},
+		{
+			"speed": 0.09,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "point...."
+		},
+		{
+			"speed": 0.065,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "......"
+		},
+		{
+			"speed": 0.08,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "....."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "we finish this.."
+		}
+	]
+}

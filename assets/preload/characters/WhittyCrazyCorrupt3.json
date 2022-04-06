@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				431,
+				-19
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sing Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				430,
+				-44
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sing Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				474,
+				43
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sing Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				430,
+				-30
+			],
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				382,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing Right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/whittyVectorFinalA",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "whittyPrecorrupted2",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		19,
+		135
+	],
+	"camera_position": [
+		-450,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

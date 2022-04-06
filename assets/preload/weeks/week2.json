@@ -1,0 +1,25 @@
+{
+	"storyName": "get up!!",
+	"hideFreeplay": true,
+	"weekBackground": "whitty",
+	"weekBefore": "week3",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"coming soon",
+			"spooky",
+			[
+				34,
+				51,
+				68
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2"
+}

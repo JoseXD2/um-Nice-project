@@ -1,0 +1,48 @@
+{
+	"storyName": "the last hope...",
+	"hideFreeplay": false,
+	"weekBackground": "whitty1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"bruh",
+			"whittyPrecorrupted2",
+			[
+				200,
+				40,
+				80
+			]
+		],
+		[
+			"detonation",
+			"whittyPrecorrupted1",
+			[
+				100,
+				0,
+				0
+			]
+		],
+		[
+			"sadboy",
+			"whitty1",
+			[
+				100,
+				0,
+				80
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}
